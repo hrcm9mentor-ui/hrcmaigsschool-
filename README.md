@@ -1,2 +1,20 @@
-# hrcmaigsschool-
-HRCM AI GS School is a modern learning platform dedicated to the scientific and traditional study of Vedic Astrology, Numerology, and Medical Vastu, enhanced with the power of Artificial Intelligence. Our mission is to provide practical, research-based, and easy-to-understand education that helps students, professionals, and seekers improve every
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/3d2099d8-5ecd-4ba8-b5a0-c7a00952662f
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
